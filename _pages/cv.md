@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://users.cs.fiu.edu/~fsaeed/CV/CV_Saeed.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
