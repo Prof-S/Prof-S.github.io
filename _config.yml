@@ -82,7 +82,7 @@ author:
   bio              : "Computational Scientist and Associate Professor of Computing"
   location         : "Miami, FL USA"
   employer         : "Florida International University (FIU)"
-  googlescholar    : "https://scholar.google.com/citations?user=IPXv-GQAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=IPXv-GQAAAAJ&hl=en"
   email            : "fsaeed@fiu.edu"
   uri              : 
   bitbucket        :
@@ -168,7 +168,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  Research:
     output: true
     permalink: /:collection/:path/
   publications:
