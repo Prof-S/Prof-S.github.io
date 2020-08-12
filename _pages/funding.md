@@ -1,6 +1,6 @@
 ---
 title: "Funding"
-layout: archive
+layout: compress
 permalink: /Funding/
 ---
 
