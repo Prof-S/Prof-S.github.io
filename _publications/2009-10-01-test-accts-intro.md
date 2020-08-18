@@ -1,3 +1,8 @@
+1. excerpt: Taban Eslami, Vahid Mirjalili, Alvis Fong, Angela R. Laird, and Fahad Saeed*, "ASD-DiagNet: A Hybrid Learning Approach for Detection of Autism Spectrum Disorder Using fMRI Data" Frontiers of Neuroinformatics, vol. 13, pages 70, Nov 2019 arXiv | Frontiers
+
+
+
+
 ---
 title: "Test Accounts: An Introduction"
 collection: publications
