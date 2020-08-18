@@ -1,12 +1,12 @@
 ---
-title: "Test Accounts: An Introduction"
+title: "Journal Articles"
+
 collection: publications
-permalink: /publications/2009-10-01-test-accts-intro
 venue: "Testing Studies"
 excerpt: 'This paper is about testing.'
 date: 2009-10-01
 paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
+citation: 'Taban Eslami, Vahid Mirjalili, Alvis Fong, Angela R. Laird, and Fahad Saeed*, "ASD-DiagNet: A Hybrid Learning Approach for Detection of Autism Spectrum Disorder Using fMRI Data" <i>Frontiers of Neuroinformatics</i>, vol. 13, pages 70, Nov 2019 arXiv | Frontiers
 ---
 
 ## Abstract
