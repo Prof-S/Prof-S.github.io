@@ -1,5 +1,5 @@
 ---
-layout: talk
+layout: default
 title: "Publications"
 permalink: /publications/
 author_profile: true
