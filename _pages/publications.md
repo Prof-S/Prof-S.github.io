@@ -9,6 +9,7 @@ permalink: /publications/
 Since 2015 I have been awarded over <b>US $ 2.1 million</b> as a <b><u>PI</u>&nbsp;</b>with <b>US$ 2.3 million</b> overall in <b><u>external funds</u></b>. Intramural funds and equipment allocations are not included in this total.
 
 ## Journal Articles 
+
 <ol><li><span style="font-family:arial,helvetica,sans-serif;font-size:12pt">Taban Eslami, Vahid Mirjalili, Alvis Fong, Angela R. Laird, and <b>Fahad Saeed<sup>*</sup></b>, "<span><u>ASD-DiagNet: A Hybrid Learning Approach for Detection of Autism Spectrum Disorder Using fMRI Data</u></span>" <i>Frontiers of Neuroinformatics</i>, vol. 13, pages 70, Nov 2019 <span style="color:#0000ff"><b><a href="https://arxiv.org/pdf/1904.07577.pdf" rel="noopener noreferrer" style="color:#0000ff" target="_blank">arXiv</a></b></span> | <span style="color:#0000ff"><b><a href="https://www.frontiersin.org/articles/10.3389/fninf.2019.00070/full" rel="noopener noreferrer" style="color:#0000ff" target="_blank">Frontiers</a></b></span></span></li>
 <li><font face="arial, sans-serif" size="3">Muaaz Awan, and&nbsp;<b>Fahad Saeed<sup>*</sup></b>,&nbsp;"<u>MaSS‐Simulator: A Highly Configurable Simulator for Generating MS/MS Datasets for Benchmarking of Proteomics Algorithms</u>", <i>Wiley Proteomics, </i>Oct 2018 <b><a href="https://doi.org/10.1002/pmic.201800206" target="_blank">Wiley</a>&nbsp;| <a href="https://www.ncbi.nlm.nih.gov/pubmed/30216669" target="_blank">PubMed</a></b></font></li>
 <li><font face="arial, sans-serif" size="3">Muaaz Awan, Taban Eslami, and <b>Fahad Saeed<sup>*</sup></b>, “<span><u>GPU-DAEMON: GPU Algorithm Design,&nbsp;Data Management &amp; Optimization template for array based big omics data</u></span>”, <i>Elsevier Computers&nbsp;in Biology and Medicine</i>, Aug 2018 <font color="#0000ff"><b><a href="https://www.sciencedirect.com/science/article/pii/S001048251830235X">Elsevier</a></b> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/30145436"><b>PubMed</b></a></font></font></li>
@@ -48,8 +49,9 @@ Since 2015 I have been awarded over <b>US $ 2.1 million</b> as a <b><u>PI</u>&nb
 </ol>
 
 
-
-
+## Unordered Lists (Nested)
+* This the first
+*this is the second
 1. National Institutes of Health (NIH), [R01GM134384](https://projectreporter.nih.gov/project_info_details.cfm?aid=9973317&amp;icde=50360442) <b>[US$ 965,874]</b>, "Multimodal Machine-Learning and High Performance Computing Strategies for Big MS Proteomics Data", <b>Fahad Saeed (PI)</b> with Shu-Ching Chen (Co-Investigator), Jason Liu (Co-Investigator), Francisco Alberto Fernandez-Lima (Co-Investigator), and Sitharama Iyengar (Senior Personal), June 2020 - May 2023
 2. National Science Foundation (NSF) CCF-1855441  <b>[US$ 7,708]</b>, "CRII: SHF: HPC Solutions to Big NGS Data Compression", <b>Fahad Saeed (PI)</b>, Sept 2018 - Jan 31, 2020
 3. National Science Foundation (NSF) OAC-1925960 **[US$ 415,950]**, “CAREER: Towards Fast and Scalable Algorithms for Big Proteogenomics Data Analytics”, **Fahad Saeed (PI)**, Sept 2018-April 2022
