@@ -9,7 +9,7 @@ permalink: /publications/
 Since 2015 I have been awarded over <b>US $ 2.1 million</b> as a <b><u>PI</u>&nbsp;</b>with <b>US$ 2.3 million</b> overall in <b><u>external funds</u></b>. Intramural funds and equipment allocations are not included in this total.
 
 ## Journal Articles 
-
+<ol>
 <li>This should be first now</li>
 <li><span style="font-family:arial,helvetica,sans-serif;font-size:12pt">Taban Eslami, Vahid Mirjalili, Alvis Fong, Angela R. Laird, and <b>Fahad Saeed<sup>*</sup></b>, "<span><u>ASD-DiagNet: A Hybrid Learning Approach for Detection of Autism Spectrum Disorder Using fMRI Data</u></span>" <i>Frontiers of Neuroinformatics</i>, vol. 13, pages 70, Nov 2019 <span style="color:#0000ff"><b><a href="https://arxiv.org/pdf/1904.07577.pdf" rel="noopener noreferrer" style="color:#0000ff" target="_blank">arXiv</a></b></span> | <span style="color:#0000ff"><b><a href="https://www.frontiersin.org/articles/10.3389/fninf.2019.00070/full" rel="noopener noreferrer" style="color:#0000ff" target="_blank">Frontiers</a></b></span></span></li>
 <li><font face="arial, sans-serif" size="3">Muaaz Awan, and&nbsp;<b>Fahad Saeed<sup>*</sup></b>,&nbsp;"<u>MaSS‐Simulator: A Highly Configurable Simulator for Generating MS/MS Datasets for Benchmarking of Proteomics Algorithms</u>", <i>Wiley Proteomics, </i>Oct 2018 <b><a href="https://doi.org/10.1002/pmic.201800206" target="_blank">Wiley</a>&nbsp;| <a href="https://www.ncbi.nlm.nih.gov/pubmed/30216669" target="_blank">PubMed</a></b></font></li>
@@ -47,7 +47,7 @@ Since 2015 I have been awarded over <b>US $ 2.1 million</b> as a <b><u>PI</u>&nb
      and Niko Beerenwinkel. "</font><u style="color:rgb(0,0,0)">Multiple Sequence Alignment System for
      Pyrosequencing Reads</u><font color="#000000">" </font><i style="color:rgb(0,0,0)">Lecture Notes in Computer Science (LNCS)</i><font color="#000000">,
      Volume 5462/2009, 2009&nbsp;</font><b><a href="http://arxiv.org/abs/0901.2753" target="_blank"><font color="#0000ff">arXiv:0901.2753</font></a><font color="#000000">&nbsp;|&nbsp;</font><a href="http://www.springerlink.com/content/x14j0w4l20268010/" target="_blank"><font color="#0000ff">Springer</font></a><font color="#0000ff">&nbsp;&nbsp;</font></b></font></li>
-
+</ol>
 
 ## Unordered Lists (Nested)
 * This the first
