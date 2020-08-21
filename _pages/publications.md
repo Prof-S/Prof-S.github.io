@@ -9,7 +9,7 @@ permalink: /publications/
 Since 2015 I have been awarded over <b>US $ 2.1 million</b> as a <b><u>PI</u>&nbsp;</b>with <b>US$ 2.3 million</b> overall in <b><u>external funds</u></b>. Intramural funds and equipment allocations are not included in this total.
 
 ## Journal Articles 
-* Taban Eslami, Vahid Mirjalili, Alvis Fong, Angela R. Laird, and **Fahad Saeed**, "<u>ASD-DiagNet: A Hybrid Learning Approach for Detection of Autism Spectrum Disorder Using fMRI Data</u>" <i>Frontiers of Neuroinformatics</i>, vol. 13, pages 70, Nov 2019 [arXiv](https://arxiv.org/pdf/1904.07577.pdf) [arXiv](https://arxiv.org/pdf/1904.07577.pdf) 
+* Taban Eslami, Vahid Mirjalili, Alvis Fong, Angela R. Laird, and **Fahad Saeed**, "<u>ASD-DiagNet: A Hybrid Learning Approach for Detection of Autism Spectrum Disorder Using fMRI Data</u>" <i>Frontiers of Neuroinformatics</i>, vol. 13, pages 70, Nov 2019 [arXiv](https://arxiv.org/pdf/1904.07577.pdf) [arXiv](https://www.frontiersin.org/articles/10.3389/fninf.2019.00070/full) 
 
 
 
