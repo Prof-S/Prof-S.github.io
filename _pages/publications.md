@@ -9,8 +9,8 @@ permalink: /publications/
 Since 2015 I have been awarded over <b>US $ 2.1 million</b> as a <b><u>PI</u>&nbsp;</b>with <b>US$ 2.3 million</b> overall in <b><u>external funds</u></b>. Intramural funds and equipment allocations are not included in this total.
 
 ## Journal Articles 
-1. Taban Eslami, Vahid Mirjalili, Alvis Fong, Angela R. Laird, and **Fahad Saeed**, "<u>ASD-DiagNet: A Hybrid Learning Approach for Detection of Autism Spectrum Disorder Using fMRI Data</u>" *Frontiers of Neuroinformatics*, vol. 13, pages 70, Nov 2019 [arXiv](https://arxiv.org/pdf/1904.07577.pdf) [Frontiers](https://www.frontiersin.org/articles/10.3389/fninf.2019.00070/full) 
-1. Muaaz Awan, and **Fahad Saeed**, "MaSS‐Simulator: A Highly Configurable Simulator for Generating MS/MS Datasets for Benchmarking of Proteomics Algorithms", *Wiley Proteomics*, Oct 2018 <b><a href="https://doi.org/10.1002/pmic.201800206" target="_blank">Wiley</a>&nbsp;| <a href="https://www.ncbi.nlm.nih.gov/pubmed/30216669" target="_blank">PubMed</a></b></font></li>
+1. Taban Eslami, Vahid Mirjalili, Alvis Fong, Angela R. Laird, and **Fahad Saeed**, "<u>ASD-DiagNet: A Hybrid Learning Approach for Detection of Autism Spectrum Disorder Using fMRI Data</u>" *Frontiers of Neuroinformatics*, vol. 13, pages 70, Nov 2019 *[arXiv](https://arxiv.org/pdf/1904.07577.pdf)* *[Frontiers](https://www.frontiersin.org/articles/10.3389/fninf.2019.00070/full)* 
+1. Muaaz Awan, and **Fahad Saeed**, "MaSS‐Simulator: A Highly Configurable Simulator for Generating MS/MS Datasets for Benchmarking of Proteomics Algorithms", *Wiley Proteomics*, Oct 2018 <b><a href="https://doi.org/10.1002/pmic.201800206" target="_blank">Wiley</a>&nbsp;| <a href="https://www.ncbi.nlm.nih.gov/pubmed/30216669" target="_blank">PubMed</a>
 
 
 
