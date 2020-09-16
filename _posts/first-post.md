@@ -1,7 +1,7 @@
 ---
 title: 'First blog post'
-date: 09-15-2020
-permalink: /posts/2020/09/first-post/
+date: 2020-08-14
+permalink: /posts/2013/08/blog-post-3/
 tags:
   - Saeedlab
   - Sciencecomm
