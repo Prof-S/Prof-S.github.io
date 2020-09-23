@@ -11,6 +11,9 @@ redirect_from:
 <a href="https://users.cs.fiu.edu/~fsaeed/CV/CV_Saeed.pdf" target="_blank" style="color:#0000EE;">**Long CV (pdf)**</a> --
 <a href="https://scholar.google.com/citations?user=IPXv-GQAAAAJ&hl=en" target="_blank" style="color:#0000EE;">**Google Scholar Profile**</a>
 
+This is a test: /files/paper1.pdf
+
+
 ## Brief Bio
 Fahad Saeed is a Tenured Associate Professor in the <span style="background-color:transparent;text-align:left;font-size:10pt"> </span><a href="https://www.cis.fiu.edu/" style="background-color:transparent"><font color="#0000ff">School of Computing and Information Sciences</font></a><span style="background-color:transparent"> at </span><a href="https://www.fiu.edu/" style="background-color:transparent"><font color="#0000ff">Florida International University (FIU)</font></a><span style="background-color:transparent">, Miami FL and is the director of </span><a href="https://saeedlab.cis.fiu.edu" style="background-color:transparent" target="_blank"><font color="#0000ff">Saeed Lab</font></a><span style="background-color:transparent"><font color="#0000ff"> </font>at FIU. His research interests include parallel and distributed algorithms and architectures, computational proteomics &amp; genomics and big data problems in computational biology and bioinformatics.
   
