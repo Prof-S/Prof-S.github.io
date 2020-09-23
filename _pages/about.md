@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Associate Professor of Computational Sciences,\
+**Associate Professor** of Computational Sciences,\
 <a href="https://www.cis.fiu.edu/" target="_blank" style="color:#0000EE;">School of Computing and Information Sciences (SCIS)</a> \
 <a href="https://www.fiu.edu/" target="_blank" style="color:#0000EE;">Florida International University (FIU) </a> \
 Mail: 11200 SW 8th St, Room ECS 261, Miami, FL 33199 USA\
-Director: <a href="https://saeedlab.cis.fiu.edu/" target="_blank" style="color:#0000EE;">Saeed Lab (Parallel Computing and Data Science Group)</a>  \
+**Director:** <a href="https://saeedlab.cis.fiu.edu/" target="_blank" style="color:#0000EE;">Saeed Lab (Parallel Computing and Data Science Group)</a>  \
 Email: <fsaeed@fiu.edu> Phone: (305) 348-3131
 
 <a href="https://users.cs.fiu.edu/~fsaeed/CV/CV_Saeed.pdf" target="_blank" style="color:#0000EE;">**Long CV (pdf)**</a> --
