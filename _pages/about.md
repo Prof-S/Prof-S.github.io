@@ -11,7 +11,7 @@ redirect_from:
 <a href="https://users.cs.fiu.edu/~fsaeed/CV/CV_Saeed.pdf" target="_blank" style="color:#0000EE;">**Long CV (pdf)**</a> --
 <a href="https://scholar.google.com/citations?user=IPXv-GQAAAAJ&hl=en" target="_blank" style="color:#0000EE;">**Google Scholar Profile**</a>
 
-<a href="https://prof-s.github.io/files/paper1.pdf" target="_blank" style="color:#0000EE;">**This is a test**</a> --
+<a href="https://prof-s.github.io/files/paper1.pdf" target="_blank" style="color:#0000EE;">**This is a test**</a> 
 
 
 ## Brief Bio
