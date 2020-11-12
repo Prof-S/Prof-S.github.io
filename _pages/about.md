@@ -22,9 +22,9 @@ Email: <fsaeed@fiu.edu> Phone: (305) 348-3131
 
 
 ## Selected Media Coverage
-"NIH Awards FIU $1M to Develop Machine Learning Algorithms to Study Proteins", <b><font color="#ff0000">HPC Wire</font></b>, June 2020 [<a href="https://www.hpcwire.com/off-the-wire/nih-awards-fiu-1m-to-develop-machine-learning-algorithms-to-study-proteins/" target="_blank"><font color="#0000ff">Article Link</font></a>]</font></span></li>
+"NIH Awards FIU $1M to Develop Machine Learning Algorithms to Study Proteins", <b><font color="#ff0000">HPC Wire</font></b>, June 2020 [<a href="https://www.hpcwire.com/off-the-wire/nih-awards-fiu-1m-to-develop-machine-learning-algorithms-to-study-proteins/" target="_blank"><font color="#0000ff">Article Link</font></a>]
 
-"FIU researchers think of a way to speed up a vaccine for COVID-19", <font color="#ff0000"><b>Miami Herald</b></font>, June 2020 [</span><a href="https://www.miamiherald.com/news/health-care/article243424276.html" style="font-family:georgia,serif;font-size:medium;background-color:transparent" target="_blank"><font color="#0000ff">News Article Link</font></a><span 
+"FIU researchers think of a way to speed up a vaccine for COVID-19", <font color="#ff0000"><b>Miami Herald</b></font>, June 2020 [</span><a href="https://www.miamiherald.com/news/health-care/article243424276.html" style="font-family:georgia,serif;font-size:medium;background-color:transparent" target="_blank"><font color="#0000ff">News Article Link</font></a>
 
 "Research Grant Helps FIU Professor Reach One Step Closer To Coronavirus Vaccine", <font color="#ff0000"><b>FIU PantherNow</b></font>, July 2020 [<a href="http://panthernow.com/2020/07/06/research-grant-helps-fiu-professor-reach-one-step-closer-to-coronavirus-vaccine/" target="_blank"><font color="#0000ff">Link</font></a>]</font></li>
 
