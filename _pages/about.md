@@ -31,13 +31,10 @@ Email: <fsaeed@fiu.edu> Phone: (305) 348-3131
 6. Distinguished Research and Creative Scholarship Award: Fahad Saeed</u>",OVPR WMU, March 2018 <a href="https://wmich.edu/engineer/saeed-0" target="_blank"><font color="#0000ff">Description</font></a> <a href="https://www.youtube.com/watch?v=UgGAtsuOyTA" target="_blank"><font color="#0000ff">YouTube</font></a>
 7. Algorithms for Life, <a href="http://www.wmich.edu/research/algorithms-life" target="_blank"><font color="#0000ff">WMU Annual Magazine</font></a>, Summer 2017
 8. Rising Stars in Research, <a href="https://issuu.com/wmich/docs/wmu-magazine-summer-2017" target="_blank"><font color="#0000ff">WMU Annual Magazine</font></a>, Summer 2017
-
-<li><font face="georgia, serif" size="3">"<a href="https://issuu.com/wmich/docs/wmu-magazine-summer-2017" target="_blank"><font color="#0000ff">Rising Stars in Research</font></a>", <font color="#000000">WMU Magazine, Summer 2017</font></font></li>
-<li><font face="georgia, serif" size="3">"<a href="http://www.wmich.edu/news/2017/10/43181" target="_blank"><font color="#0000ff">Researchers Snag a prestigious&nbsp;National Prize</font></a>", <font color="#000000">WMU News, 2017</font></font></li>
-<li><font face="georgia, serif" size="3">"<a href="https://wmich.edu/engineer/fahad-saeed" target="_blank"><font color="#0000ff">WMU Assistant Professor receives&nbsp;NSF CAREER Award</font></a>", <font color="#000000">CEAS WMU 2017</font></font></li>
-<li><font face="georgia, serif" size="3">"<a href="https://sciencenode.org/feature/surfing-with-algorithms.php" target="_blank"><font color="#0000ff">Surfing with Algorithms</font></a>",&nbsp;<font color="#000000">Science Node, March 2016</font></font></li>
-<li><font face="georgia, serif" size="3"><span style="line-height:18px">"<a href="http://www.wmich.edu/sites/default/files/attachments/u593/2015/CEAS%20e%20news%20July15_0.pdf" target="_blank"><font color="#0000ff">Working with Powerful Supercomputers</font></a>"<font color="#333333">, WMU CEAS News, July 2015</font></span></font></li></ul>
-
+9. Researchers Snag a prestigious National Prize, <a href="http://www.wmich.edu/news/2017/10/43181" target="_blank"><font color="#0000ff">WMU News Link</font></a>, 2017
+10. WMU Assistant Professor receives NSF CAREER Award, <a href="https://wmich.edu/engineer/fahad-saeed" target="_blank"><font color="#0000ff">CEAS WMU Article Link</font></a>
+11. Surfing with Algorithms,  <a href="https://sciencenode.org/feature/surfing-with-algorithms.php" target="_blank"><font color="#0000ff">NSF Science Node</font></a>, March 2016
+12. Working with Powerful Supercomputers, <a href="http://www.wmich.edu/sites/default/files/attachments/u593/2015/CEAS%20e%20news%20July15_0.pdf" target="_blank"><font color="#0000ff">WMU CEAS News</font></a>, July 2015
 
 
 ## Brief Bio
