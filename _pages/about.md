@@ -8,14 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> <html> <head> <title>redirect to real site</title> <meta http-equiv="REFRESH" 
-content="0;url=https://users.cs.fiu.edu/~fsaeed/"></HEAD>
-<BODY>
-Optional page text here.
-</BODY>
-</HTML>
-
-
 **Associate Professor** of Computational Sciences,\
 <a href="https://www.cis.fiu.edu/" target="_blank" style="color:#0000EE;">School of Computing and Information Sciences (SCIS)</a> \
 <a href="https://www.fiu.edu/" target="_blank" style="color:#0000EE;">Florida International University (FIU) </a> \
