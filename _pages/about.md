@@ -28,10 +28,10 @@ Email: <fsaeed@fiu.edu> Phone: (305) 348-3131
 4. "NIH awards FIU $1M to develop machine-learning algorithms to study proteins – important for understanding, treating diseases", <b><font color="#ff0000">FIU News</font></b>, June 2020 
 <a href="https://news.fiu.edu/2020/nih-awards-fiu-1-million-to-develop-machine-learning-algorithms-to-study-proteins-important-for-understanding,-treating-diseases" target="_blank"><font color="#0000ff">Article Link</font></a>
 5. "Dr. Saeed awarded prestigious $1 Million R01 grant from National Institute of Health", SCIS FIU News, May 2020 <a href="https://www.cis.fiu.edu/dr-saeed-awarded-prestigious-1-million-r01-grant-from-national-institute-of-health/" target="_blank"><font color="#0000ff">Article Link</font></a>
-6. Distinguished Research and Creative Scholarship Award: Fahad Saeed</u>",&nbsp;OVPR WMU, March 2018 <a href="https://wmich.edu/engineer/saeed-0" target="_blank"><font color="#0000ff">Description</font></a> <a href="https://www.youtube.com/watch?v=UgGAtsuOyTA" target="_blank"><font color="#0000ff">YouTube</font></a>
+6. Distinguished Research and Creative Scholarship Award: Fahad Saeed</u>",OVPR WMU, March 2018 <a href="https://wmich.edu/engineer/saeed-0" target="_blank"><font color="#0000ff">Description</font></a> <a href="https://www.youtube.com/watch?v=UgGAtsuOyTA" target="_blank"><font color="#0000ff">YouTube</font></a>
+7. Algorithms for Life, <a href="http://www.wmich.edu/research/algorithms-life" target="_blank"><font color="#0000ff">WMU Annual Magazine</font></a>, Summer 2017
+8. Rising Stars in Research, <a href="https://issuu.com/wmich/docs/wmu-magazine-summer-2017" target="_blank"><font color="#0000ff">WMU Annual Magazine</font></a>, Summer 2017
 
-
-<li><font face="georgia, serif" size="3">"<a href="http://www.wmich.edu/research/algorithms-life" target="_blank"><font color="#0000ff">Algorithms for Life</font></a>", <font color="#000000">WMU Magazine, Summer 2017</font></font></li>
 <li><font face="georgia, serif" size="3">"<a href="https://issuu.com/wmich/docs/wmu-magazine-summer-2017" target="_blank"><font color="#0000ff">Rising Stars in Research</font></a>", <font color="#000000">WMU Magazine, Summer 2017</font></font></li>
 <li><font face="georgia, serif" size="3">"<a href="http://www.wmich.edu/news/2017/10/43181" target="_blank"><font color="#0000ff">Researchers Snag a prestigious&nbsp;National Prize</font></a>", <font color="#000000">WMU News, 2017</font></font></li>
 <li><font face="georgia, serif" size="3">"<a href="https://wmich.edu/engineer/fahad-saeed" target="_blank"><font color="#0000ff">WMU Assistant Professor receives&nbsp;NSF CAREER Award</font></a>", <font color="#000000">CEAS WMU 2017</font></font></li>
