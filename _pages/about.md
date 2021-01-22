@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> <html> <head> <title>redirect to real site</title> <meta http-equiv="REFRESH" 
-content="0;url=http://www.cs.fiu.edu/~fsaeed"></HEAD>
+content="0;url=https://users.cs.fiu.edu/~fsaeed/"></HEAD>
 <BODY>
 Optional page text here.
 </BODY>
