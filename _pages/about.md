@@ -24,14 +24,12 @@ Email: <fsaeed@fiu.edu> Phone: (305) 348-3131
 ## Selected Media Coverage
 1. "NIH Awards FIU $1M to Develop Machine Learning Algorithms to Study Proteins", <b><font color="#ff0000">HPC Wire</font></b>, June 2020 <a href="https://www.hpcwire.com/off-the-wire/nih-awards-fiu-1m-to-develop-machine-learning-algorithms-to-study-proteins/" target="_blank"><font color="#0000ff">Article Link</font></a>
 2. "FIU researchers think of a way to speed up a vaccine for COVID-19", <font color="#ff0000"><b>Miami Herald</b></font>, June 2020 <a href="https://www.miamiherald.com/news/health-care/article243424276.html" target="_blank"><font color="#0000ff">Article Link</font></a>
-
 3. "Research Grant Helps FIU Professor Reach One Step Closer To Coronavirus Vaccine", <font color="#ff0000"><b>FIU PantherNow</b></font>, July 2020 <a href="http://panthernow.com/2020/07/06/research-grant-helps-fiu-professor-reach-one-step-closer-to-coronavirus-vaccine/" target="_blank"><font color="#0000ff">Article Link</font></a>
+4. "NIH awards FIU $1M to develop machine-learning algorithms to study proteins – important for understanding, treating diseases", <b><font color="#ff0000">FIU News</font></b>, June 2020 
+<a href="https://news.fiu.edu/2020/nih-awards-fiu-1-million-to-develop-machine-learning-algorithms-to-study-proteins-important-for-understanding,-treating-diseases" target="_blank"><font color="#0000ff">Article Link</font></a>
+5. "Dr. Saeed awarded prestigious $1 Million R01 grant from National Institute of Health", SCIS FIU News, May 2020 <a href="https://www.cis.fiu.edu/dr-saeed-awarded-prestigious-1-million-r01-grant-from-national-institute-of-health/" target="_blank"><font color="#0000ff">Article Link</font></a>
+6. Distinguished Research and Creative Scholarship Award: Fahad Saeed</u>",&nbsp;OVPR WMU, March 2018 <a href="https://wmich.edu/engineer/saeed-0" target="_blank"><font color="#0000ff">Description</font></a> <a href="https://www.youtube.com/watch?v=UgGAtsuOyTA" target="_blank"><font color="#0000ff">YouTube</font></a>
 
-"NIH awards FIU $1M to develop machine-learning algorithms to study proteins – important for understanding, treating diseases", <b><font color="#ff0000">FIU News</font></b>, June 2020 [<a href="https://news.fiu.edu/2020/nih-awards-fiu-1-million-to-develop-machine-learning-algorithms-to-study-proteins-important-for-understanding,-treating-diseases" target="_blank"><font color="#0000ff">Description</font></a>]</font></li>
-
-"Dr. Saeed awarded prestigious $1 Million R01 grant from National Institute of Health", SCIS FIU News, May 2020 [<a href="https://www.cis.fiu.edu/dr-saeed-awarded-prestigious-1-million-r01-grant-from-national-institute-of-health/" target="_blank"><font color="#0000ff">Description</font></a>]</font></li>
-
-Distinguished Research and Creative Scholarship Award: Fahad Saeed</u>",&nbsp;OVPR WMU, March 2018 [<a href="https://wmich.edu/engineer/saeed-0" target="_blank"><font color="#0000ff">Description</font></a>] [<a href="https://www.youtube.com/watch?v=UgGAtsuOyTA" target="_blank"><font color="#0000ff">YouTube&nbsp;video</font></a>]</font></li>
 
 <li><font face="georgia, serif" size="3">"<a href="http://www.wmich.edu/research/algorithms-life" target="_blank"><font color="#0000ff">Algorithms for Life</font></a>", <font color="#000000">WMU Magazine, Summer 2017</font></font></li>
 <li><font face="georgia, serif" size="3">"<a href="https://issuu.com/wmich/docs/wmu-magazine-summer-2017" target="_blank"><font color="#0000ff">Rising Stars in Research</font></a>", <font color="#000000">WMU Magazine, Summer 2017</font></font></li>
