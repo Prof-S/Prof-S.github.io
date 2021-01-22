@@ -22,10 +22,9 @@ Email: <fsaeed@fiu.edu> Phone: (305) 348-3131
 
 
 ## Selected Media Coverage
-1. "NIH Awards FIU $1M to Develop Machine Learning Algorithms to Study Proteins", <b><font color="#ff0000">HPC Wire</font></b>, June 2020 [<a href="https://www.hpcwire.com/off-the-wire/nih-awards-fiu-1m-to-develop-machine-learning-algorithms-to-study-proteins/" target="_blank"><font color="#0000ff">Article Link</font></a>]
+1. "NIH Awards FIU $1M to Develop Machine Learning Algorithms to Study Proteins", <b><font color="#ff0000">HPC Wire</font></b>, June 2020 <a href="https://www.hpcwire.com/off-the-wire/nih-awards-fiu-1m-to-develop-machine-learning-algorithms-to-study-proteins/" target="_blank"><font color="#0000ff">Article Link</font></a>
 2. "FIU researchers think of a way to speed up a vaccine for COVID-19", <font color="#ff0000"><b>Miami Herald</b></font>, June 2020 [</span><a href="https://www.miamiherald.com/news/health-care/article243424276.html" style="font-family:georgia,serif;font-size:medium;background-color:transparent" target="_blank"><font color="#0000ff">News Article Link</font></a>
-
-"Research Grant Helps FIU Professor Reach One Step Closer To Coronavirus Vaccine", <font color="#ff0000"><b>FIU PantherNow</b></font>, July 2020 [<a href="http://panthernow.com/2020/07/06/research-grant-helps-fiu-professor-reach-one-step-closer-to-coronavirus-vaccine/" target="_blank"><font color="#0000ff">Link</font></a>]</font></li>
+3. "Research Grant Helps FIU Professor Reach One Step Closer To Coronavirus Vaccine", <font color="#ff0000"><b>FIU PantherNow</b></font>, July 2020 [<a href="http://panthernow.com/2020/07/06/research-grant-helps-fiu-professor-reach-one-step-closer-to-coronavirus-vaccine/" target="_blank"><font color="#0000ff">Link</font></a>]</font></li>
 
 "NIH awards FIU $1M to develop machine-learning algorithms to study proteins – important for understanding, treating diseases", <b><font color="#ff0000">FIU News</font></b>, June 2020 [<a href="https://news.fiu.edu/2020/nih-awards-fiu-1-million-to-develop-machine-learning-algorithms-to-study-proteins-important-for-understanding,-treating-diseases" target="_blank"><font color="#0000ff">Description</font></a>]</font></li>
 
