@@ -15,5 +15,5 @@ Dr. Saeed is a Director of a interdisciplinary research group focusing on machin
 
 In particular, we are particularly interested in solving big data problems in high-throughput proteomics, genomics and connectomics using variety of high-performance architectures and algorithms.
 
-There are **three to four separate research groups** working under Dr. Saeed. You can learn more about my research group and our progress at <https://saeedlab.cis.fiu.edu/>. 
+There are **three to four separate research groups** working under Dr. Saeed. You can learn more about my research group and our progress at <https://saeedlab.cis.fiu.edu/> which is a Parallel Computing & Data Science Group. 
 
