@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-##Dr. Saeed## is a Director of a interdisciplinary research group focusing on machine-learning, parallel and high performance computing focusing on applications-driven algorithmic research, primarily in the area of computational and systems biology. 
+Dr. Saeed is a Director of a interdisciplinary research group focusing on machine-learning, parallel and high performance computing focusing on applications-driven algorithmic research, primarily in the area of computational and systems biology. 
 
 In particular, we are particularly interested in solving big data problems in high-throughput proteomics, genomics and connectomics using variety of high-performance architectures and algorithms.
 
