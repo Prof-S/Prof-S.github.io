@@ -8,6 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28661824-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-28661824-1');
+</script>
+
+
 **Associate Professor** of Computational Sciences,\
 <a href="https://www.cis.fiu.edu/" target="_blank" style="color:#0000EE;">School of Computing and Information Sciences (SCIS)</a> \
 <a href="https://www.fiu.edu/" target="_blank" style="color:#0000EE;">Florida International University (FIU) </a> \
