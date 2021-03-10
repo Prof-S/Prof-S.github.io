@@ -19,9 +19,9 @@ redirect_from:
 </script>
 
 
-**Associate Professor**, <a href="https://www.cis.fiu.edu/" target="_blank" style="color:#0000EE;">Knight Foundation School of Computing and Information Sciences </a> \
-**Associate Professor**, <a href="https://bsi.fiu.edu/about/index.html" target="_blank" style="color:#0000EE;">Biomolecular Sciences Institute (BSI) </a> \
-<a href="https://www.fiu.edu/" target="_blank" style="color:#0000EE;">Florida International University (FIU) </a> \
+**Associate Professor**, <a href="https://www.cis.fiu.edu/" target="_blank" style="color:#0000EE;">Knight Foundation School of Computing and Information Sciences, </a> \
+**Associate Professor**, <a href="https://bsi.fiu.edu/about/index.html" target="_blank" style="color:#0000EE;">Biomolecular Sciences Institute (BSI), </a> \
+<a href="https://www.fiu.edu/" target="_blank" style="color:#0000EE;">Florida International University (FIU), Miami FL USA </a> \
 Mail: 11200 SW 8th St, Room ECS 261, Miami, FL 33199 USA\
 **Director:** <a href="https://saeedlab.cis.fiu.edu/" target="_blank" style="color:#0000EE;">Saeed Lab (Parallel Computing and Data Science Group)</a>  \
 Email: <fsaeed@fiu.edu> Phone: (305) 348-3131
