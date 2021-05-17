@@ -8,6 +8,8 @@ permalink: /publications/
 
 <span style="text-decoration: underline; color: #ff0000; font-size: 14pt;"><span style="font-family: arial, helvetica, sans-serif;"><strong>2021</strong></span></span>
 
+<span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><span style="color: #000000;">77. Sumesh Kumar, and <strong>Fahad Saeed<sup>*</sup></strong>, "<span style="text-decoration: underline;">Communication-optimized micro-architecture to compute Xcorr scores for peptide identification</span>", <em>Proceedings of International Conference on Field-Programmable Logic and Applications (FPL)</em>, May 2021</span></span>
+
 <span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><span style="color: #000000;">76. Fahad Almuqhim, and <strong>Fahad Saeed<sup>*</sup></strong>, "<u>ASD-SAENet: Sparse Autoencoder for detecting Autism Spectrum Disorder (ASD) using fMRI data</u>", <em>Frontiers in Computational Neuroscience</em>, Vol. 15, p. 27, March 2021</span>  <span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="https://www.frontiersin.org/articles/10.3389/fncom.2021.654315/full">Frontiers</a> </strong></span></span>
 
 <span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><span style="color: #000000;">75. Muaaz Awan, Abdullah Awan, and <strong>Fahad Saeed<sup>*</sup></strong>, "<u>Benchmarking Mass Spectrometry based Proteomics Algorithms using a Simulated Database</u>", <em>Springer Network Modeling Analysis in Health Informatics and Bioinformatics</em>, Vol. 10, Article 23, March 2021</span>  <span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="https://link.springer.com/article/10.1007/s13721-021-00298-3">Springer</a></strong></span></span>
