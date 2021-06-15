@@ -9,6 +9,7 @@ permalink: /Funding/
 Since 2015 I have been awarded over <b>US $ 2.1 million</b> as a <b><u>PI</u>&nbsp;</b>with <b>US$ 2.3 million</b> overall in <b><u>external funds</u></b>. Intramural funds and equipment allocations are not included in this total.
 
 ## External Research Funds
+1. National Institutes of Health (NIH) Supplemental- 3R01GM134384-01A1S1 [US$ 205,291],“Multimodal Machine-Learning Algorithms for Early Detection, and Classification for AlzheimerDisorder and Related Dementia’s”, Fahad Saeed (PI), May 2021 - May 2023
 1. National Institutes of Health (NIH), [R01GM134384](https://projectreporter.nih.gov/project_info_details.cfm?aid=9973317&amp;icde=50360442) <b>[US$ 965,874]</b>, "Multimodal Machine-Learning and High Performance Computing Strategies for Big MS Proteomics Data", <b>Fahad Saeed (PI)</b> with Shu-Ching Chen (Co-Investigator), Jason Liu (Co-Investigator), Francisco Alberto Fernandez-Lima (Co-Investigator), and Sitharama Iyengar (Senior Personal), June 2020 - May 2023
 2. National Science Foundation (NSF) CCF-1855441  <b>[US$ 7,708]</b>, "CRII: SHF: HPC Solutions to Big NGS Data Compression", <b>Fahad Saeed (PI)</b>, Sept 2018 - Jan 31, 2020
 3. National Science Foundation (NSF) OAC-1925960 **[US$ 415,950]**, “CAREER: Towards Fast and Scalable Algorithms for Big Proteogenomics Data Analytics”, **Fahad Saeed (PI)**, Sept 2018-April 2022
