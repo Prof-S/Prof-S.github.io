@@ -6,7 +6,7 @@ permalink: /Funding/
 
 {% include base_path %}
 
-Since 2015 I have been awarded over <b>US $ 2.1 million</b> as a <b><u>PI</u>&nbsp;</b>with <b>US$ 2.3 million</b> overall in <b><u>external funds</u></b>. Intramural funds and equipment allocations are not included in this total.
+Since 2015 I have been awarded over <b>US $ 2.3 million</b> as a <b><u>PI</u>&nbsp;</b>with <b>US$ 2.51 million</b> overall in <b><u>external funds</u></b>. Intramural funds and equipment allocations are not included in this total.
 
 ## External Research Funds
 1. National Institutes of Health (NIH) Supplemental- 3R01GM134384-01A1S1 [US$ 205,291],“Multimodal Machine-Learning Algorithms for Early Detection, and Classification for AlzheimerDisorder and Related Dementia’s”, Fahad Saeed (PI), May 2021 - May 2023
