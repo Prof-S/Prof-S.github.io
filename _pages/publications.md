@@ -8,7 +8,7 @@ permalink: /publications/
 
 <span style="text-decoration: underline; color: #ff0000; font-size: 14pt;"><span style="font-family: arial, helvetica, sans-serif;"><strong>2021</strong></span></span>
 
-<span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><span style="color: #000000;">81. Oswaldo Artiles, and <strong>Fahad Saeed<sup>*</sup></strong>, "TurboBC: A Memory Efficient and Scalable GPU Based Betweenness Centrality Algorithm in the Language of Linear Algebra", International Workshop on Deployment and Use of Accelerators (DUAC), <em>Proceedings of 50th International Conference on Parallel Processing (ICPP)</em>, Chicago IL, August 2021</span></span>
+<span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><span style="color: #000000;">81. Oswaldo Artiles, and <strong>Fahad Saeed<sup>*</sup></strong>, "<span style="text-decoration: underline;">TurboBC: A Memory Efficient and Scalable GPU Based Betweenness Centrality Algorithm in the Language of Linear Algebra</span>", International Workshop on Deployment and Use of Accelerators (DUAC), <em>Proceedings of 50th International Conference on Parallel Processing (ICPP)</em>, Chicago IL, August 2021</span></span>
 
 <span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><span style="color: #000000;">80. Umair Muhammad, and <strong>Fahad Saeed<sup>*</sup></strong>, "<span style="text-decoration: underline;">Simulation Testbed for Evaluating Distributed Querying and Searching of Mass Spectrometry Big Data in a Network-based Infrastructure</span>", <em>Proceedings of 7th IEEE International Conference on Big Data Service and Applications (IEEE BIGDATASERVICE),</em> August 2021</span></span>
 
