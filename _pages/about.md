@@ -28,7 +28,8 @@ redirect_from:
 
 
 Mail: 11200 SW 8th St, Room ECS 261, Miami, FL 33199 USA\
-Email: <fsaeed@fiu.edu> Phone: (305) 348-3131
+Email: <fsaeed@fiu.edu> <a href='mailto:fsaeed@fiu.edu' style='color: blue;'>fsaeed@fiu.edu</a>
+Phone: (305) 348-3131
 
 <a href="https://users.cs.fiu.edu/~fsaeed/CV/CV_Saeed.pdf" target="_blank" style="color:#0000EE;">**Long CV (pdf)**</a> --
 <a href="https://scholar.google.com/citations?user=IPXv-GQAAAAJ&hl=en" target="_blank" style="color:#0000EE;">**Google Scholar Profile**</a>
