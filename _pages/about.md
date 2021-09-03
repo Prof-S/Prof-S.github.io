@@ -24,6 +24,8 @@ redirect_from:
 **Associate Professor**, <a href="https://medicine.fiu.edu/about/departments/human-and-molecular-genetics/index.html" target="_blank" style="color:#0000EE;">Herbert Wertheim School of Medicine, </a> \
 <a href="https://www.fiu.edu/" target="_blank" style="color:#0000EE;">Florida International University (FIU)</a>, Miami FL USA\
 **Director:** <a href="https://saeedlab.cis.fiu.edu/" target="_blank" style="color:#FF0000;">Saeed Lab (Parallel Computing and Data Science Group)</a>
+**Founder & CEO:** <a href="https://saeedlab.cis.fiu.edu/" target="_blank" style="color:#FF0000;">AI-NeoTech LLC</a>
+
 
 Mail: 11200 SW 8th St, Room ECS 261, Miami, FL 33199 USA\
 Email: <fsaeed@fiu.edu> Phone: (305) 348-3131
