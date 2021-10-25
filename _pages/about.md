@@ -34,6 +34,10 @@ Phone: (305) 348-3131
 <a href="https://users.cs.fiu.edu/~fsaeed/CV/CV_Saeed.pdf" target="_blank" style="color:#0000EE;">**Long CV (pdf)**</a> --
 <a href="https://scholar.google.com/citations?user=IPXv-GQAAAAJ&hl=en" target="_blank" style="color:#0000EE;">**Google Scholar Profile**</a>
 
+<figure>
+  <img src="https://saeedlab.cis.fiu.edu/wp-content/uploads/sites/44/2021/08/Cover_Nature_Saeed-1030x580.jpg" alt="Trulli" style="width:100%">
+  </figure>
+
 <!--<a href="https://prof-s.github.io/files/paper1.pdf" target="_blank" style="color:#0000EE;">**This is a test**</a> -->
 
 
